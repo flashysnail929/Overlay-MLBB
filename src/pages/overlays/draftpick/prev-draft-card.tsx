@@ -5,7 +5,6 @@ import {
   currentBans,
   currentPicks,
 } from "@/utils/analyze-prev-draft";
-import { useEffect } from "react";
 
 type PrevDraftCardProps = {
   side: "left" | "right";
