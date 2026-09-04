@@ -94,6 +94,7 @@ natalia
 natan
 nolan
 novaria
+obsidia
 odette
 paquito
 pharsa
@@ -105,6 +106,7 @@ ruby
 saber
 selena
 silvanna
+sora
 sun
 suyou
 terizla
@@ -122,6 +124,7 @@ yin
 yisunshin
 yuzhong
 yve
+zetian
 zhask
 zhuxin
 zilong
